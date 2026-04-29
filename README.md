@@ -40,6 +40,8 @@ Refer the following example for each prompt type:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   # OUTPUT:
+  
+  https://github.com/SanjayK2006/Prompt-Engineering-EXP.NO-4/blob/main/prompt%20exp4.pdf
 
   # RESULT:
   The generation of prompts for the given types is generated successfully.
